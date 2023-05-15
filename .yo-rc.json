@@ -1,0 +1,17 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "script-injection",
+    "libraryId": "42782577-651c-43ef-bb6f-190e927842fd",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "Script Injection",
+    "solutionShortDescription": "Script Injection description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ApplicationCustomizer"
+  }
+}
