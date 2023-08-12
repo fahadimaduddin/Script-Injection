@@ -4,7 +4,7 @@
   "https": false,
   "serveConfigurations": {
     "default": {
-      "pageUrl": "https://fahadimaduddin.sharepoint.com/SiteAssets/Asset/style.css",
+      "pageUrl": "https://bahauddinfahad.sharepoint.com/SiteAssets/Asset/style.css",
       "customActions": {
         "4e731156-5182-42fd-82c3-62424752127c": {
           "location": "ClientSideExtension.ApplicationCustomizer",
@@ -15,7 +15,7 @@
       }
     },
     "scriptInjection": {
-      "pageUrl": "https://fahadimaduddin.sharepoint.com//SiteAssets/Asset/style.css",
+      "pageUrl": "https://bahauddinfahad.sharepoint.com/SiteAssets/Asset/style.css",
       "customActions": {
         "4e731156-5182-42fd-82c3-62424752127c": {
           "location": "ClientSideExtension.ApplicationCustomizer",

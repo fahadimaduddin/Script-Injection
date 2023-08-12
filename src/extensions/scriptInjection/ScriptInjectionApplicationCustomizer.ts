@@ -23,9 +23,9 @@ export default class ScriptInjectionApplicationCustomizer
   extends BaseApplicationCustomizer<IScriptInjectionApplicationCustomizerProperties> {
 
   public onInit(): Promise<void> {
-    let cssFileUrl:string="https://fahadimaduddin.sharepoint.com/SiteAssets/Asset/style.css";
-    let scriptFileUrl:string="https://fahadimaduddin.sharepoint.com/SiteAssets/Asset/index.js";
-    let jQueryFileUrl:string="https://fahadimaduddin.sharepoint.com/SiteAssets/Asset/jquery-1.7.2.js";
+    let cssFileUrl:string="https://bahauddinfahad.sharepoint.com/SiteAssets/Asset/style.css";
+    let scriptFileUrl:string="https://bahauddinfahad.sharepoint.com/SiteAssets/Asset/index.js";
+    let jQueryFileUrl:string="https://bahauddinfahad.sharepoint.com/SiteAssets/Asset/jquery-1.7.2.js";
     let head:any = document.getElementsByTagName("head")[0] || document.documentElement;
     console.log("Demo " + head);
     if(cssFileUrl){
